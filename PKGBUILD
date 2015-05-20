@@ -1,7 +1,7 @@
 buildarch=4
 
 pkgname=libcec-imx6
-pkgver=3.0.0_20150517
+pkgver=13.20150519
 pkgrel=1
 pkgdesc="Pulse-Eight's libcec for the Pulse-Eight USB-CEC adapter with support for i.MX6 based devices. IMX changes from https://github.com/xbmc-imx6/libcec."
 arch=('armv7h')
